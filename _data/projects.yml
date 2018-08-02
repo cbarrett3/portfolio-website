@@ -4,5 +4,5 @@
   quote: >
     The goal of this project was to simplify the lives of elementary teachers by generating even classlists for them to provide the teachers in the grade above theirs.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of practicing python and helping my mother save time, and it has since grown into a useful application used widely across their school.
-    One of the best skills I learned through this was how to optimize python code to improve runtime. This project has saved many hours for teachers, and hopefully will continue to in the future.
+    I started this project as a way of practicing python and helping my mother save time, and it has since grown into a useful application used by many of her co-workers.
+    One of the most useful skills I learned through this project was how to optimize python code to improve runtime. This project has saved many hours for teachers, and hopefully will continue to in the future.
