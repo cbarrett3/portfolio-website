@@ -25,11 +25,11 @@ instagram_username: cah_ner
 
 # About Section
 # about_title: About Me
-about_profile_image: images/image-3.png
+about_profile_image: images/Image-3.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Connor and I'm a senior at UW-Madison. While studying computer science, I also have gained experience in a number of areas including software and web app development, databases, data manipulation, and artificial intelligence. I have also completed three internships, gaining technical, teamwork, and leadership skills.
+  Hey there, my name's Connor and I'm a senior at the University of Wisconsin-Madison. While studying computer science, I have gained experience in a number of areas including web app development, database development, data manipulation, and artificial intelligence. I have also completed three internships, gaining technical, teamwork, and leadership skills.
 
-  I am most skilled using: <mark>Python</mark> or <mark>Java</mark>
+  I am most skilled using: <mark>Python</mark> or <mark>Java</mark>, and
   I am most interested in: <mark>Machine learning</mark> and <mark>Deep Learning</mark>
 
 # Projects Section
