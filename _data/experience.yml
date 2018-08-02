@@ -3,6 +3,15 @@
   job_title: Advanced Data Analytics Enablement Intern
   dates: May 2018 - August 2018
   quote: >
-    Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools 
+    Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
     Built a data-pipeline and created reactive visual dashboards to display real-time Microsoft Azure usage cost data in a Python with <mark>Flask</mark> driven Web Application for R&D to utilize.
+
+- company: American Family Insurance
+  link: Amfam.com
+  job_title: Strategic Research and Data Analytics Intern
+  dates: May 2017 - August 2017
+  quote: >
+    Cooperated with research scientists on various modeling projects
+  description: |
+    Worked on standardizing data using <mark>Pandas</mark> and <mark>Hive</mark>, applying smart comparisons, and determining match status for a general purpose machine-learning based framework that matches records from different datasets without a unique identifier.
