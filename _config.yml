@@ -25,11 +25,12 @@ instagram_username: cah_ner
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/image-3.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Connor and I'm a senior at UW-Madison. While studying computer science, I also have gained experience in a number of areas including software and web app development, databases, data manipulation, and artificial intelligence. I have also completed three internships, gaining technical, teamwork, and leadership skills.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Going to concerts</mark>
+  I am most skilled using: <mark>Python</mark> or <mark>Java</mark>
+  I am most interested in: <mark>Machine learning</mark> and <mark>Deep Learning</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software engineering and artificial intelligence, some of my other interests and hobbies are:
+  Alongside my interests in software and AI, some of my other interests and hobbies are:
    - [Discovering new music](https://www.soundcloud.com/connorbarrett11)
    - Playing soccer and ice hockey
    - Traveling
