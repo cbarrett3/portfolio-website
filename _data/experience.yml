@@ -5,7 +5,7 @@
   quote: >
     Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
-    Built a data-pipeline and created reactive visual dashboards to display real-time Microsoft Azure usage cost data in a Python with <mark>Flask</mark> driven Web Application for R&D to utilize.
+    Built a data-pipeline and created reactive visual dashboards to display real-time Microsoft <mark>Azure</mark> usage cost data in a Python with <mark>Flask</mark> driven Web Application for R&D to utilize.
 
 - company: American Family Insurance
   link: Amfam.com
