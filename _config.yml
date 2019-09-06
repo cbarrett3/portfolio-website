@@ -26,9 +26,16 @@ instagram_username: cah_ner
 # about_title: About Me
 about_profile_image: images/Image-3.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Connor and I'm a senior at the University of Wisconsin-Madison. While studying computer science, I have gained experience in a number of areas including web app development, database development, data manipulation, and artificial intelligence. I have also completed three internships which have all boosted my technical, teamwork, and leadership skills.
-
-  I am most skilled using <mark>Python</mark> and <mark>Java</mark>, and I am most interested in <mark>Machine learning</mark> and <mark>Deep Learning</mark>
+  Welcome! My name is Connor. My goal is simple: to showcase who I am, what I do, and why I do it. Enjoy!
+  Who? I'm a Saint Paul, MN native, and I graduated from UW-Madison in 2019 with a degree in Computer Science. Today I reside in Saint Paul once again, and I currently 
+  work as a data specialist in the Data Intelligence division at 3M.
+  
+  What? In addition to school work, I had the fortunate opportunity to intern with two fortune 500 companies.
+  Over my college years I gained technical experience in areas such as databases (SQL, Firebase, Azure), 
+  web development (React, Angular, Flask), and data analysis (pandas, power BI, R) just to name a few. 
+  Today I use these skills at my job at 3M, as well as on side projects (mostly education related).
+  
+  Lately, I have been loving using <mark>Angular</mark> and <mark>React</mark>, and I am most interested in <mark>Web Development</mark> and <mark>Cloud Integrations</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -42,11 +49,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software and AI, some of my other interests and hobbies are:
-   - [Discovering new music](https://www.soundcloud.com/connorbarrett11)
-   - Playing soccer and ice hockey
-   - Traveling
-   - Attending concerts
+  Some of my other interests and hobbies are:
+   - listening to music, making music for fun, and going to concerts
+   - playing futsal, soccer, hockey, rollerblading, spike ball and anything else competitive outdoors
+   - chess as of recently
+   - traveling, hiking and camping especially
+   - photography
 
 # Footer
 footer_show_references: true
