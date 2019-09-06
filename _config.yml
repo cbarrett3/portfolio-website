@@ -26,7 +26,7 @@ instagram_username: cah_ner
 # about_title: About Me
 about_profile_image: images/Image-3.png
 about_content: | # this will include new lines to allow paragraphs
-  Welcome! My name is Connor. My goal is simple: to showcase who I am, what I do, and why I do it. Enjoy!
+  <mark>Welcome! My name is Connor.</mark> My goal is simple: to showcase who I am, what I do, and why I do it. Enjoy!
   
   <mark>Who?</mark> I'm a Saint Paul, MN native, and I graduated from UW-Madison in 2019 with a degree in Computer Science. Today I reside in Saint Paul once again, and I currently 
   work as a data specialist in the Data Intelligence division at 3M.
