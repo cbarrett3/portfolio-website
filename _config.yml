@@ -5,8 +5,8 @@ repository: cbarrett3/portfolio-website
 
 # Personal info
 name: Connor Barrett
-title: Student at University of Wisconsin-Madison
-email: connor.barrett@wisc.edu
+title: Data Specialist at 3M
+email: connor.steven.barrett@gmail.com
 
 # Social links
 github_username:  cbarrett3
@@ -27,15 +27,21 @@ instagram_username: cah_ner
 about_profile_image: images/Image-3.png
 about_content: | # this will include new lines to allow paragraphs
   Welcome! My name is Connor. My goal is simple: to showcase who I am, what I do, and why I do it. Enjoy!
-  Who? I'm a Saint Paul, MN native, and I graduated from UW-Madison in 2019 with a degree in Computer Science. Today I reside in Saint Paul once again, and I currently 
+  
+  <mark>Who?</mark> I'm a Saint Paul, MN native, and I graduated from UW-Madison in 2019 with a degree in Computer Science. Today I reside in Saint Paul once again, and I currently 
   work as a data specialist in the Data Intelligence division at 3M.
   
-  What? In addition to school work, I had the fortunate opportunity to intern with two fortune 500 companies.
+  <mark>What?</mark> In addition to school work, I had the fortunate opportunity to intern with two fortune 500 companies.
   Over my college years I gained technical experience in areas such as databases (SQL, Firebase, Azure), 
   web development (React, Angular, Flask), and data analysis (pandas, power BI, R) just to name a few. 
   Today I use these skills at my job at 3M, as well as on side projects (mostly education related).
   
-  Lately, I have been loving using <mark>Angular</mark> and <mark>React</mark>, and I am most interested in <mark>Web Development</mark> and <mark>Cloud Integrations</mark>
+   <mark>Why?</mark> My passions are many and widespread. During my time in Madison I did lot's of soul searching, 
+   and today I feel like I am walking through life with more direction than before. 
+   I care deeply about the environment (as everyone should), and my heart also gravitates towards improving education. 
+   Both my mother and my older sister are primary school teachers, and observing their genuine care for their students over time has inspired me to say the least.
+  
+  Lately, I have been loving using <mark>Angular</mark> and <mark>React</mark>, and I am most interested in <mark>Web Development</mark> and <mark>Cloud Integrations</mark>.
 
 # Projects Section
 # projects_title: Projects
