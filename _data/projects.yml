@@ -4,4 +4,4 @@
   quote: >
     The goal of this project was to simplify the lives of elementary teachers by generating even classlists for them to provide the teachers in the grade above theirs.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of practicing <mark>python</mark> and helping my mom save time. One of the most useful skills I learned through this project was how to optimize my <mark>pandas</mark> code to improve my algorithms runtime. I also created a front-end with inputs for users.
+    I started this project as a way of practicing <mark>Python</mark> and helping my mom save time. One of the most useful skills I learned through this project was how to optimize my <mark>Pandas</mark> code to improve my algorithms runtime. I also created a front-end with inputs for users.
