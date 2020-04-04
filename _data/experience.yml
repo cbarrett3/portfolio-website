@@ -1,11 +1,11 @@
 - company: 3M
   link: 3m.com
-  job_title: Advanced Data Analytics Enablement Intern
+  job_title: Web Development Intern
   dates: May 2018 - August 2018
   quote: >
     Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
-    Built a data-pipeline and created reactive visual dashboards to display real-time Microsoft <mark>Azure</mark> usage cost data in a Python with <mark>Flask</mark> driven Web Application for R&D to utilize.
+    Worked on an Agile Scrum development team to develop an interactive, real-time data visualization web application for 3M Research and Development to utilize; built using primarily <mark>Flask</mark> and <mark>SQLAlchemy</mark>
 
 - company: American Family Insurance
   link: Amfam.com
