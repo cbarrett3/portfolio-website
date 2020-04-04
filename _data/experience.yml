@@ -5,12 +5,12 @@
   quote: >
     Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
-  My favorite project has been architecting, developing, and delivering a full-stack web application for Marketing and Sales to use.
-    PowerBI Development & Strategy
-    .NET / Entity Framework / React.js
-    SQL DB design and management
-    Azure Integrations
-    PowerShell Automation Scripting
+    My favorite project has been architecting, developing, and delivering a full-stack web application for Marketing and Sales to use.
+      - PowerBI Development & Strategy
+      - .NET / Entity Framework / React.js
+      - SQL DB design and management
+      - Azure Integrations
+      - PowerShell Automation Scripting
 
 - company: 3M
   link: 3m.com
