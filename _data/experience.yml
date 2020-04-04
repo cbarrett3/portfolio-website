@@ -6,11 +6,11 @@
     Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
     My favorite project has been architecting, developing, and delivering a full-stack web application for Marketing and Sales to use.
-      - PowerBI Development & Strategy
-      - .NET / Entity Framework / React.js
-      - SQL DB design and management
-      - Azure Integrations
-      - PowerShell Automation Scripting
+      - <mark>PowerBI</mark> Development & Strategy
+      - <mark>.NET</mark> / <mark>Entity Framework</mark> / <mark>React.js</mark>
+      - <mark>SQL</mark> DB design and management
+      - <mark>Azure</mark> Integrations
+      - <mark>PowerShell</mark> Automation Scripting
 
 - company: 3M
   link: 3m.com
@@ -19,7 +19,7 @@
   quote: >
     Trasforming 3M's Research and Development sector through predictive analytics by developing and implementing a scalable data infrastructure with customized tools
   description: | # this will include new lines to allow paragraphs
-    Worked on an Agile Scrum development team to develop an interactive, real-time data visualization web application for 3M Research and Development to utilize; built using primarily Flask (python) and SQLAlchemy
+    Worked on an Agile Scrum development team to develop an interactive, real-time data visualization web application for 3M Research and Development to utilize; built using primarily <mark>Flask</mark> and <mark>SQLAlchemy</mark>
 
 - company: American Family Insurance
   link: Amfam.com
